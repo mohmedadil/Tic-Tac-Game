@@ -1,5 +1,4 @@
-*.csharp linguist-detectable=true  
-*.c++ linguist-detectable=false  
-*.js linguist-detectable=false  
-*.html linguist-detectable=false  
-*.xml linguist-detectable=false    
+*.C++ linguist-detectable=false
+*.cmake linguist-detectable=false
+*.c linguist-detectable=false
+*.html linguist-detectable=false
